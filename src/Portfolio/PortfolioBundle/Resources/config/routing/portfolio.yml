@@ -1,0 +1,3 @@
+portfolio_portfolio_index:
+    pattern:  /
+    defaults: { _controller: PortfolioPortfolioBundle:Portfolio:index }

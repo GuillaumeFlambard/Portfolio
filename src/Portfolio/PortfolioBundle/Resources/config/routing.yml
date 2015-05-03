@@ -1,0 +1,3 @@
+portfolio_portfolio:
+    resource: "@PortfolioPortfolioBundle/Resources/config/routing/portfolio.yml"
+    prefix: /
