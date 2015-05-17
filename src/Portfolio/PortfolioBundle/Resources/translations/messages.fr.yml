@@ -1,0 +1,35 @@
+portfolio:
+    title:
+        web_developpeur: Developpeur web
+        about_me: À Propos de moi
+        last_project: Dérniers projets
+        oui_eat_french_project: OuiEatFrench - Projet de fin d'édute
+        oui_eat_french_subtitle: Placee de marché reliant directement agriculteurs et consomateurs
+        skills: Compétences
+        recommandation: Recommandations
+        education:
+            title: Formation
+            sup_internet:
+                title: Sup'Internet France
+                education: Bachelor developpement et technologie du web
+            la_fayette:
+                title : La Fayette France
+                education: Bac STI Génie Electronique
+        languages: Languages
+        french: Francais
+        english: Anglais
+        modal: Contacter moi
+        basic_information: Mes coordonées
+        cv: Curriculum vitae
+    text:
+        about_me: Sup'Internet m'a permis d'acquérir une méthode de travail et une méniére de penser me permettant d'aboder intelligement les différentes problématiques que je peut rencontrer dans le développement web. Les 12 mois de stage que j'ai pu effectuer on complété mes connaissances et mon expérience en développement. Je suis toujours motivé pour aborder de nouveaus languages et techniques de programmation web.
+        oui_eat_french_description: Place de marché reliant directement les agriculteurs directement aux particuliers avec les moins d'intermédiére possible.
+        oui_eat_french_specificity: Constitué d'un équipe de 9 personnes, 3 developpeurs, 3 designeurs et 3 commerciaux.<br> Je suis résponsable du pole developement.
+        skills: Voici les différentes compétences que j'ai pu aquerire aussi bien dans ma formation à Sup'Internet que dans mes different stages et developpement personel.
+        french: Langue natal
+        english: Professionel
+        copyright: Porte folio de Guillaume Flambard
+        email: Votre adress mail
+        message: Message
+        close: Fermer
+        send_mail: Envoyer l'email

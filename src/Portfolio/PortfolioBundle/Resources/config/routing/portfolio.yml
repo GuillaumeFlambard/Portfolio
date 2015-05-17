@@ -1,3 +1,11 @@
 portfolio_portfolio_index:
     pattern:  /
     defaults: { _controller: PortfolioPortfolioBundle:Portfolio:index }
+
+portfolio_portfolio_set_message:
+    pattern:  /message
+    defaults: { _controller: PortfolioPortfolioBundle:Portfolio:setMessage }
+
+portfolio_portfolio_set_lang:
+    pattern:  /{lang}
+    defaults: { _controller: PortfolioPortfolioBundle:Portfolio:setLang, lang: fr }
