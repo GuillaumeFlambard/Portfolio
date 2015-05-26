@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc1d3b8e-cc4c-4d3e-9c06-d07297f6f9e7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Controller/PortfolioController.php" afterPath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Controller/PortfolioController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config.yml" afterPath="$PROJECT_DIR$/app/config/config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/translations/messages.fr.yml" afterPath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/translations/messages.fr.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/views/Portfolio/portfolio.html.twig" afterPath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/views/Portfolio/portfolio.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/config/routing/portfolio.yml" afterPath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/config/routing/portfolio.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,7 +28,7 @@
       <file leaf-file-name="portfolio.html.twig" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/views/Portfolio/portfolio.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="300" column="142" selection-start="21783" selection-end="21783" vertical-scroll-proportion="0.39411098" vertical-offset="5052" max-vertical-offset="7056">
+            <state line="56" column="21" selection-start="3518" selection-end="3518" vertical-scroll-proportion="0.3533409" vertical-offset="696" max-vertical-offset="7056">
               <folding />
             </state>
           </provider>
@@ -509,7 +504,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/views/Portfolio/portfolio.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="300" column="142" selection-start="21783" selection-end="21783" vertical-scroll-proportion="0.39411098" vertical-offset="5052" max-vertical-offset="7056">
+        <state line="56" column="21" selection-start="3518" selection-end="3518" vertical-scroll-proportion="0.3533409" vertical-offset="696" max-vertical-offset="7056">
           <folding />
         </state>
       </provider>
