@@ -21,6 +21,13 @@ portfolio:
         modal: Contacter moi
         basic_information: Mes coordonées
         cv: Curriculum vitae
+        experience_professionel: Expérience professionel
+        experience_professionel_edreams_1: Developpeur web (Symfony 2)
+        experience_professionel_edreams_2: Developpeur web (Symfony 2) & Mobile (Android JAVA)
+        experience_professionel_opensada: Developpeur web (PrestaShop)
+        project_eso: Atom - Designed for Mobile Apps
+        project_project_manager: Atom - Designed for Mobile Apps
+        project_social_club: Atom - Designed for Mobile Apps
     text:
         about_me: Sup'Internet m'a permis d'acquérir une méthode de travail et une méniére de penser me permettant d'aboder intelligement les différentes problématiques que je peut rencontrer dans le développement web. Les 12 mois de stage que j'ai pu effectuer on complété mes connaissances et mon expérience en développement. Je suis toujours motivé pour aborder de nouveaus languages et techniques de programmation web.
         oui_eat_french_description: Place de marché reliant directement les agriculteurs directement aux particuliers avec les moins d'intermédiére possible.
@@ -33,3 +40,9 @@ portfolio:
         message: Message
         close: Fermer
         send_mail: Envoyer l'email
+        experience_professionel_edreams_1: Developpeur web (Symfony 2)
+        experience_professionel_edreams_2: Developpeur web (Symfony 2) & Mobile (Android JAVA)
+        experience_professionel_opensada: Developpeur web (PrestaShop)
+        project_eso: Atom - Designed for Mobile Apps
+        project_project_manager: Atom - Designed for Mobile Apps
+        project_social_club: Atom - Designed for Mobile Apps

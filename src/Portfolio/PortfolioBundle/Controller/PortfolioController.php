@@ -23,6 +23,17 @@ class PortfolioController extends Controller
         return $this->indexAction();
     }
 
+    public function downloadCVAction()
+    {
+        $fichier = "cv_guillaume.jpg";
+        $chemin = __DIR__ . '/../../../../web/portfolio/assets/images/';
+        header ("Content-type: application/force-download");
+        header ("Content-disposition: filename=$fichier");
+
+        readFile($chemin . $fichier);
+        return $this->indexAction();
+    }
+
     public function setMessageAction()
     {
         $request = $this->getRequest();
@@ -31,13 +42,22 @@ class PortfolioController extends Controller
         {
             $email = $request->request->get('email');
             $comment = $request->request->get('comment');
-            //$message = new Message;
-            //$message->setEmail($email);
-            //$message->setComment($comment);
 
-            //$em = $this->getDoctrine()->getManager();
-            //$em->persist($message);
-            //$em->flush();
+            $message = \Swift_Message::newInstance()
+                ->setSubject('Contact portfolio')
+                ->setFrom($email)
+                ->setTo('guillaume.flambard01@gmail.com')
+                ->setBody('Email : ' . $email . ' Message : ' . $comment)
+            ;
+            $this->get('mailer')->send($message);
+
+            $message = new Message;
+            $message->setEmail($email);
+            $message->setComment($comment);
+
+            $em = $this->getDoctrine()->getManager();
+            $em->persist($message);
+            $em->flush();
         }
 
         return new JsonResponse();

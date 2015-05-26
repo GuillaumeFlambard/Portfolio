@@ -9,3 +9,7 @@ portfolio_portfolio_set_message:
 portfolio_portfolio_set_lang:
     pattern:  /{lang}
     defaults: { _controller: PortfolioPortfolioBundle:Portfolio:setLang, lang: fr }
+
+portfolio_portfolio_download_cv:
+    pattern:  /download/cv
+    defaults: { _controller: PortfolioPortfolioBundle:Portfolio:downloadCV }
