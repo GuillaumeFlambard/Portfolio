@@ -25,7 +25,7 @@ class PortfolioController extends Controller
 
     public function downloadCVAction()
     {
-        $fichier = "cv_guillaume.jpg";
+        $fichier = "guillaume_flambard_cv.jpg";
         $chemin = __DIR__ . '/../../../../web/portfolio/assets/images/';
         header ("Content-type: application/force-download");
         header ("Content-disposition: filename=$fichier");

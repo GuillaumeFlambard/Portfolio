@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Responsive HTML5 Website landing Page for Developers">
     <meta name="author" content="3rd Wave Media">
-    <link rel="shortcut icon" href="favicon.ico">  
+    <link rel="shortcut icon" type="image/png" href="{{ asset('portfolio/assets/images/test.png') }}">
     <link href='http://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'> 
     <!-- Global CSS -->
@@ -67,9 +67,11 @@
                     </div>
                 </div>
             #}
+            <!--
                 <button type="button" class="btn btn-cta-primary pull-right" data-toggle="modal" data-target="#myModal">
                     Me contacter
                 </button>
+            -->
             <!--</div> -->
 
         </div><!--//container-->
@@ -93,20 +95,16 @@
                         <div class="content">
                                                
                             <div class="item featured text-center">
-                                <h3 class="title"><a href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-products-velocity/" target="_blank">{{ "portfolio.title.oui_eat_french_project"|trans }}</a></h3>
-                                <p class="summary">{{ "portfolio.title.oui_eat_french_subtitle"|trans }}</p>
+                                <h3 class="title">{{ "portfolio.title.oui_eat_french_project"|trans }}</h3>
                                 <p class="summary">{{ "portfolio.title.oui_eat_french_subtitle"|trans }}</p>
                                 <div class="featured-image">
-                                    <a href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-products-velocity/" target="_blank">
-                                    <img class="img-responsive project-image" src="{{ asset('portfolio/assets/images/projects/project-featured.png') }}" alt="project name" />
-                                    </a>
+                                    <img class="img-responsive project-image" src="{{ asset('portfolio/assets/images/projects/landing_format.jpg') }}" alt="project name" />
                                     <!--<div class="ribbon">
                                         <div class="text">New</div>
                                         </div>
                                     </div>-->
-                                    
                                 <div class="desc text-left">
-                                    <p>{{ "portfolio.text.oui_eat_french_description"|trans }}
+                                    <p>{{ "portfolio.text.oui_eat_french_description"|trans|raw }}
                                     </p>
                                     <p>
                                         {{ "portfolio.text.oui_eat_french_specificity"|trans|raw }}
@@ -115,33 +113,33 @@
                             </div><!--//item-->
                             <hr class="divider" />
                             <div class="item row">
-                                <a class="col-md-4 col-sm-4 col-xs-12" href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-mobile-apps-atom/" target="_blank">
-                                <img class="img-responsive project-image" src="{{ asset('portfolio/assets/images/projects/project-5.png') }}" alt="project name" />
-                                </a>
+                                <span class="col-md-4 col-sm-4 col-xs-12">
+                                <img class="img-responsive project-image" src="{{ asset('portfolio/assets/images/projects/medical_format.jpg') }}" alt="project name" />
+                                </span>
                                 <div class="desc col-md-8 col-sm-8 col-xs-12">
-                                    <h3 class="title"><a href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-mobile-apps-atom/" target="_blank">{{ "portfolio.title.project_eso"|trans }}</a></h3>
-                                    <p>{{ "portfolio.text.project_eso"|trans }}</p>
+                                    <h3 class="title">{{ "portfolio.title.project_medical"|trans }}</h3>
+                                    <p>{{ "portfolio.text.project_medical"|trans }}</p>
                                     {#<p><a class="more-link" href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-mobile-apps-atom/" target="_blank"><i class="fa fa-external-link"></i> Find out more</a></p>#}
                                 </div><!--//desc-->                          
                             </div><!--//item-->
                             
                             <div class="item row">
-                                <a class="col-md-4 col-sm-4 col-xs-12" href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-web-development-agencies-devstudio/" target="_blank">
-                                <img class="img-responsive project-image" src="{{ asset('portfolio/assets/images/projects/project-4.png') }}" alt="project name" />
-                                </a>
+                                <span class="col-md-4 col-sm-4 col-xs-12">
+                                <img class="img-responsive project-image" src="{{ asset('portfolio/assets/images/projects/maquette_clever_managment.jpg') }}" alt="project name" />
+                                </span>
                                 <div class="desc col-md-8 col-sm-8 col-xs-12">
-                                    <h3 class="title"><a href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-web-development-agencies-devstudio/" target="_blank">{{ "portfolio.title.project_project_manager"|trans }}</a></h3>
+                                    <h3 class="title">{{ "portfolio.title.project_project_manager"|trans }}</h3>
                                     <p>{{ "portfolio.text.project_project_manager"|trans }}</p>
                                     {#<p><a class="more-link" href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-web-development-agencies-devstudio/" target="_blank"><i class="fa fa-external-link"></i> Find out more</a></p>#}
                                 </div><!--//desc-->                          
                             </div><!--//item-->
 
                             <div class="item row">
-                                <a class="col-md-4 col-sm-4 col-xs-12" href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-web-development-agencies-devstudio/" target="_blank">
-                                <img class="img-responsive project-image" src="{{ asset('portfolio/assets/images/projects/project-4.png') }}" alt="project name" />
-                                </a>
+                                <span class="col-md-4 col-sm-4 col-xs-12">
+                                <img width="252" height="50" style="background:url({{ asset('portfolio/assets/images/projects/maquette_social_club.jpg') }}) 0 10px;" class="img-responsive project-image" src="{{ asset('portfolio/assets/images/projects/maquette_social_club.jpg') }}" alt="project name" />
+                                </span>
                                 <div class="desc col-md-8 col-sm-8 col-xs-12">
-                                    <h3 class="title"><a href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-web-development-agencies-devstudio/" target="_blank">{{ "portfolio.title.project_social_club"|trans }}</a></h3>
+                                    <h3 class="title">{{ "portfolio.title.project_social_club"|trans }}</h3>
                                     <p>{{ "portfolio.text.project_social_club"|trans }}</p>
                                     {#<p><a class="more-link" href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-web-development-agencies-devstudio/" target="_blank"><i class="fa fa-external-link"></i> Find out more</a></p>#}
                                 </div><!--//desc-->
@@ -181,7 +179,7 @@
                         <div class="content">
                             <ul class="list-unstyled">
                                 <li><i class="fa fa-map-marker"></i><span class="sr-only">Location:</span>Paris, France</li>
-                                <li><i class="fa fa-envelope-o"></i><span class="sr-only">Email:</span><a href="#">guillaume.flambard@supinternet.fr</a></li>
+                                <li><i class="fa fa-envelope-o"></i><span class="sr-only">Email:</span><a href="#">guillaume.flambard01@gmail.com</a></li>
                                 <li><i class="glyphicon glyphicon-earphone grey"></i> <span class="sr-only">Téléphone:</span> &nbsp;&nbsp;06 99 29 52 81</li>
                             </ul>
                         </div><!--//content-->  
@@ -198,7 +196,7 @@
                             <div class="skillset">
                                
                                 <div class="item">
-                                    <h3 class="level-title">PHP &amp; Symfony2<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" >Expert</span></h3>
+                                    <h3 class="level-title">PHP &amp; Symfony2</h3>
                                     <div class="level-bar">
                                         <div class="level-bar-inner" data-level="90%">
                                         </div>                                      
@@ -206,7 +204,7 @@
                                 </div><!--//item-->
                                 
                                 <div class="item">
-                                    <h3 class="level-title">Javascript &amp; jQuery &amp; Ajax<span class="level-label">Expert</span></h3>
+                                    <h3 class="level-title">Javascript &amp; jQuery &amp; Ajax</h3><!--<span class="level-label">Expert</span>-->
                                     <div class="level-bar">
                                         <div class="level-bar-inner" data-level="80%">
                                         </div>                                      
@@ -214,7 +212,7 @@
                                 </div><!--//item-->
                                 
                                 <div class="item">
-                                    <h3 class="level-title">JAVA (Android)<span class="level-label">Expert</span></h3>
+                                    <h3 class="level-title">JAVA (Android)</h3>
                                     <div class="level-bar">
                                         <div class="level-bar-inner" data-level="40%">
                                         </div>                                      
@@ -222,7 +220,7 @@
                                 </div><!--//item-->
                                 
                                 <div class="item">
-                                    <h3 class="level-title">MySQL &amp; Doctrine2 &amp; PHPMyadmin<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="You can use the tooltip to add more info...">Expert</span></h3>
+                                    <h3 class="level-title">MySQL &amp; Doctrine2 &amp; PHPMyadmin</h3><!--<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="You can use the tooltip to add more info...">Expert</span>-->
                                     <div class="level-bar">
                                         <div class="level-bar-inner" data-level="80%">
                                         </div>                                      
@@ -230,7 +228,7 @@
                                 </div><!--//item-->
                                 
                                 <div class="item">
-                                    <h3 class="level-title">HTML5, CSS3, Bootstrap<span class="level-label">Expert</span></h3>
+                                    <h3 class="level-title">HTML5, CSS3, Bootstrap</h3>
                                     <div class="level-bar">
                                         <div class="level-bar-inner" data-level="96%">
                                         </div>                                      
@@ -297,8 +295,8 @@
                     <div class="section-inner">
                         <h2 class="heading">{{ 'portfolio.title.cv'|trans }}<a class="pull-right" href="{{ path('portfolio_portfolio_download_cv') }}"><i class="fa fa-download fa-lg"></i></a></h2>
                         <div class="rogne">
-                            <p><a class="fancybox" rel="group" href="{{ asset('portfolio/assets/images/cv_guillaume.jpg') }}">
-                                    <img src="{{ asset('portfolio/assets/images/cv_guillaume.jpg') }}" width="100%" height="100%" alt="..." />
+                            <p><a class="fancybox" rel="group" href="{{ asset('portfolio/assets/images/guillaume_flambard_cv.jpg') }}">
+                                    <img src="{{ asset('portfolio/assets/images/guillaume_flambard_cv.jpg') }}" width="100%" height="100%" alt="..." />
                             </a>
                             </p>
                         </div>
@@ -373,6 +371,13 @@
                 };
             });
         });
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-63787010-1', 'auto');
+        ga('send', 'pageview');
     </script>
 
     <!-- Javascript -->

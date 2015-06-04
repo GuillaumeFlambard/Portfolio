@@ -1,48 +1,49 @@
 portfolio:
     title:
-        web_developpeur: Developpeur web
+        web_developpeur: Développeur web
         about_me: À Propos de moi
-        last_project: Dérniers projets
-        oui_eat_french_project: OuiEatFrench - Projet de fin d'édute
-        oui_eat_french_subtitle: Placee de marché reliant directement agriculteurs et consomateurs
+        last_project: Derniers projets
+        oui_eat_french_project: OuiEatFrench - Projet de fin d'études
+        oui_eat_french_subtitle: Place de marché reliant directement agriculteurs et consommateurs
         skills: Compétences
         recommandation: Recommandations
         education:
             title: Formation
             sup_internet:
                 title: Sup'Internet France
-                education: Bachelor developpement et technologie du web
+                education: Bachelor développement et technologie du web
             la_fayette:
                 title : La Fayette France
                 education: Bac STI Génie Electronique
-        languages: Languages
-        french: Francais
+        languages: Langages
+        french: Français
         english: Anglais
-        modal: Contacter moi
-        basic_information: Mes coordonées
+        modal: Contactez-moi
+        basic_information: Mes coordonnées
         cv: Curriculum vitae
-        experience_professionel: Expérience professionel
-        experience_professionel_edreams_1: Developpeur web (Symfony 2)
-        experience_professionel_edreams_2: Developpeur web (Symfony 2) & Mobile (Android JAVA)
-        experience_professionel_opensada: Developpeur web (PrestaShop)
-        project_eso: Atom - Designed for Mobile Apps
-        project_project_manager: Atom - Designed for Mobile Apps
-        project_social_club: Atom - Designed for Mobile Apps
+        experience_professionel: Expérience professionelle
+        experience_professionel_edreams_1: Développeur web (Symfony 2) - Stage
+        experience_professionel_edreams_2: Développeur web (Symfony 2) & Mobile (Android JAVA) - Stage
+        experience_professionel_opensada: Développeur web (PrestaShop) - Stage
+        project_medical: Projet santé - EdreamsFactory Symfony2
+        project_project_manager: Clevermanagement - Projet de fin de 2ème année
+        project_social_club: Social mustach club - Projet de fin de 1ère année
     text:
-        about_me: Sup'Internet m'a permis d'acquérir une méthode de travail et une méniére de penser me permettant d'aboder intelligement les différentes problématiques que je peut rencontrer dans le développement web. Les 12 mois de stage que j'ai pu effectuer on complété mes connaissances et mon expérience en développement. Je suis toujours motivé pour aborder de nouveaus languages et techniques de programmation web.
-        oui_eat_french_description: Place de marché reliant directement les agriculteurs directement aux particuliers avec les moins d'intermédiére possible.
-        oui_eat_french_specificity: Constitué d'un équipe de 9 personnes, 3 developpeurs, 3 designeurs et 3 commerciaux.<br> Je suis résponsable du pole developement.
-        skills: Voici les différentes compétences que j'ai pu aquerire aussi bien dans ma formation à Sup'Internet que dans mes different stages et developpement personel.
-        french: Langue natal
-        english: Professionel
-        copyright: Porte folio de Guillaume Flambard
-        email: Votre adress mail
+        about_me: Sup'internet m'a permis d'acquérir une méthode de travail et des techniques de reflexion et d’analyse me permettant d'aborder intelligemment les différentes problématiques que je peux rencontrer dans le développement web. Les 12 mois de stages que j'ai effectués m’ont permis de compléter mes connaissances et mon expérience. Je suis toujours motivé  pour aborder de nouveaux langages et techniques de programmation web.
+        oui_eat_french_description: OuiEatFrench est une place de marché reliant directement les agriculteurs aux particuliers avec le moins d'intermédiaires possible. Les agriculteurs ont leurs propres espaces d'administration où ils peuvent sélectionner leurs produits et toutes les informations nécessaires à l'achat de ce produit notamment avec une notion de traçabilité (Quand a été récolté le produit, quels traitements a-t-il subit etc).<br> Quant aux consommateurs, ils peuvent sélectionner un agriculteur près de chez eux afin de commander des produits frais et locaux, ils ont même la possibilité de venir chercher leurs produits directement chez l'agriculteur.
+        oui_eat_french_specificity: Constitué d'une équipe de 9 personnes, 3 développeurs, 3 designers et 3 commerciaux. Je suis responsable du pôle développement, le projet est entièrement fonctionnel, de la configuration côté administration jusqu'au paiement de l'utilisateur.
+        skills: Voici les différentes compétences que j'ai pu acquérir aussi bien dans ma formation à Sup'Internet que dans mes différents stages et développements de projets personels.
+        french: Langue maternelle
+        english: Professionel, documentation et développement web
+        copyright: Portfolio de Guillaume Flambard
+        email: Votre adresse email
         message: Message
         close: Fermer
         send_mail: Envoyer l'email
-        experience_professionel_edreams_1: Developpeur web (Symfony 2)
-        experience_professionel_edreams_2: Developpeur web (Symfony 2) & Mobile (Android JAVA)
-        experience_professionel_opensada: Developpeur web (PrestaShop)
-        project_eso: Atom - Designed for Mobile Apps
-        project_project_manager: Atom - Designed for Mobile Apps
-        project_social_club: Atom - Designed for Mobile Apps
+        experience_professionel_edreams_1: J'ai choisi EdreamsFactory pour mon stage de 2ème année car ils recherchaient un développeur Symfony2, j'étais très intéressé par cette technologie. J'ai eu comme première mission de continuer le développement du CRM de la boîte, j'ai pu toucher à quelques projets notamment un site de chauffeurs privés.
+        experience_professionel_edreams_2: Pour mon dernier stage, EdreamsFactory m'a proposé de revenir, avec en plus une petite mission de développement Android. J'aime beaucoup aborder et apprendre de nouvelles technologies. J'ai énormément appris pendant ce stage. J'ai eu l'occasion de me perfectionner en Symfony2 et d'utiliser le Framework de manière poussée et intelligente.
+        experience_professionel_opensada: J'ai effectué mon stage de première année à OpenSada. J'ai développé de nombreux modules prestashop comme un guide des tailles, une suggestion de produits, un achat en pack, un rappel de panier abandonné, un mailing automatique. Ce stage a été une expérience intéressante, il m'a aidé à renforcer mes bases en POO (Programmation Orientée Objet).
+        project_medical: Le projet santé est un groupe d'écoles dans le domaine médical. C'est un des nombreux projets que j'ai pu réaliser à EdreamsFactory, j'ai particulièrement aimé ce projet car j'en ai été le développeur principal et j'ai eu de très bons retours. Il a fallu mettre en place une gestion d'édudiants, de praticiens, de patients, également de promotion et de formation. La partie que j'ai le plus aimée sur ce projet a été la mise au point des algorithmes de génération de créneaux/planning afin qu'une secrétaire puisse gérer ses rendez-vous. J'ai également effectué toute la migration des données de leur ancien logiciel vers le nouveau.
+        project_project_manager: Clevermanagement est mon projet de fin de deuxième année. L'équipe était composée de 3 développeurs. Il a fallu développer un gestionnaire de projets avec un framework réalisé par la promotion. Ce gestionnaire de projets comprend une gestion d'utilisateurs ainsi qu'une assignation de tâches à ces utilisateurs. Il y a également une notion d'heures prévues pour un projet et le temps réellement passé sur celui-ci. Nous avons eu de très bons retours sur ce projet.
+        project_social_club: The Social mustach club est tout simplement mon projet préféré. C'est mon projet de fin de première année, avec une équipe constituée de 4 développeurs. Nous devions réaliser un réseaux social avec un système de mur personnel et de mur commun et également une messagerie instanée, nous avions même créé notre propre ORM pour réaliser ce projet. Ce projet m'a beaucoup plu car j'ai vraiment pris du plaisir à le développer et le résultat vallait vraiment le coup, j'étais tout simplement impressionné de ce que j'étais capable de réaliser à la fin de la première année d'études.
+
