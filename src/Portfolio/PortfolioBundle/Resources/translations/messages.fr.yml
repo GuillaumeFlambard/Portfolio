@@ -49,3 +49,10 @@ portfolio:
         project_medical_more: Ce projet est actuellement en ligne, il y a plus de 100 consultations effectuées par jour. Je m'occupe de la maintenance de ce projet ainsi que de la mise en place les nombreux additifs.
         project_project_manager: Clevermanagement est mon projet de fin de deuxième année. L'équipe était composée de 3 développeurs. Il a fallu développer un gestionnaire de projets avec un framework réalisé par la promotion. Ce gestionnaire de projets comprend une gestion d'utilisateurs ainsi qu'une assignation de tâches à ces utilisateurs. Il y a également une notion d'heures prévues pour un projet et le temps réellement passé sur celui-ci. Nous avons eu de très bons retours sur ce projet.
         project_social_club: The Social mustach club est tout simplement mon projet préféré. C'est mon projet de fin de première année, avec une équipe constituée de 4 développeurs. Nous devions réaliser un réseaux social avec un système de mur personnel et de mur commun et également une messagerie instanée, nous avions même créé notre propre ORM pour réaliser ce projet. Ce projet m'a beaucoup plu car j'ai vraiment pris du plaisir à le développer et le résultat vallait vraiment le coup, j'étais tout simplement impressionné de ce que j'étais capable de réaliser à la fin de la première année d'études.
+        recommandation:
+            gael:
+                status: Professeur de PHP - Sup'Internet
+            pa:
+                status: Lead Developer - Edreamsfactory - Stage de première année
+            alexandre:
+                status: Directeur Commercial - Edreamsfactory - Stage de dernière année
