@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc1d3b8e-cc4c-4d3e-9c06-d07297f6f9e7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Portfolio.iml" afterPath="$PROJECT_DIR$/.idea/Portfolio.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/translations/messages.en.yml" afterPath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/translations/messages.en.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/translations/messages.fr.yml" afterPath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/translations/messages.fr.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/views/Portfolio/portfolio.html.twig" afterPath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/views/Portfolio/portfolio.html.twig" />
     </list>
     <ignored path="Portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +27,8 @@
           <file leaf-file-name="messages.fr.yml" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/translations/messages.fr.yml">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="126">
-                  <caret line="33" column="288" lean-forward="false" selection-start-line="33" selection-start-column="288" selection-end-line="33" selection-end-column="288" />
+                <state relative-caret-position="210">
+                  <caret line="36" column="199" lean-forward="false" selection-start-line="36" selection-start-column="199" selection-end-line="36" selection-end-column="199" />
                   <folding />
                 </state>
               </provider>
@@ -45,8 +41,8 @@
           <file leaf-file-name="messages.en.yml" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/translations/messages.en.yml">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-182">
-                  <caret line="31" column="114" lean-forward="true" selection-start-line="31" selection-start-column="114" selection-end-line="31" selection-end-column="114" />
+                <state relative-caret-position="408">
+                  <caret line="34" column="512" lean-forward="false" selection-start-line="34" selection-start-column="512" selection-end-line="34" selection-end-column="512" />
                   <folding />
                 </state>
               </provider>
@@ -101,8 +97,8 @@
         <option value="&lt;bf7ea432-0e34-43f5-ba8d-021c0262fd5d&gt;/src/Portfolio/PortfolioBundle/Resources/views/Portfolio/portfolio.html.twig" />
         <option value="$PROJECT_DIR$/web/portfolio/assets/css/styles.css" />
         <option value="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/views/Portfolio/portfolio.html.twig" />
-        <option value="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/translations/messages.fr.yml" />
         <option value="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/translations/messages.en.yml" />
+        <option value="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/translations/messages.fr.yml" />
       </list>
     </option>
   </component>
@@ -491,12 +487,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1430557854929</updated>
-      <workItem from="1497539877912" duration="3468000" />
+      <workItem from="1497539877912" duration="5459000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19505000" />
+    <option name="totallyTimeSpent" value="21496000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
@@ -881,18 +877,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/translations/messages.fr.yml">
+    <entry file="file://$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/translations/messages.en.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="33" column="288" lean-forward="false" selection-start-line="33" selection-start-column="288" selection-end-line="33" selection-end-column="288" />
+        <state relative-caret-position="408">
+          <caret line="34" column="512" lean-forward="false" selection-start-line="34" selection-start-column="512" selection-end-line="34" selection-end-column="512" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/translations/messages.en.yml">
+    <entry file="file://$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/translations/messages.fr.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-182">
-          <caret line="31" column="114" lean-forward="true" selection-start-line="31" selection-start-column="114" selection-end-line="31" selection-end-column="114" />
+        <state relative-caret-position="210">
+          <caret line="36" column="199" lean-forward="false" selection-start-line="36" selection-start-column="199" selection-end-line="36" selection-end-column="199" />
           <folding />
         </state>
       </provider>
