@@ -4,37 +4,37 @@ portfolio:
         about_me: About me
         last_project: Last projects
         oui_eat_french_project: OuiEatFrench - End school project
-        oui_eat_french_subtitle: Market place who directly link farmer to consumer
+        oui_eat_french_subtitle: Marketplace that directly links farmers to consumers
         skills: Skills
         recommandation: References
         education:
             title: Education
             sup_internet:
                 title: Sup'Internet France
-                education: Bachelor in web technologie and web development
+                education: Bachelor in web technology and web development
             la_fayette:
                 title : La Fayette France
-                education: High-school diploma in electronic
+                education: High school diploma in electronic
         languages: Languages
         french: French
         english: English
-        modal: Contact-me
+        modal: Contact me
         basic_information: Basic informations
         cv: Resume
-        experience_professionel: Professional experiance
-        experience_professionel_edreams_1: Web developer (Symfony 2) - Intership
-        experience_professionel_edreams_2: Web developer (Symfony 2) & Mobile (Android JAVA) - Intership
+        experience_professionel: Professional experience
+        experience_professionel_edreams_1: Web developer (Symfony 2) - Internship
+        experience_professionel_edreams_2: Web developer (Symfony 2) & Mobile (Android JAVA) - Internship
         experience_professionel_edreams_3: Web developer (Symfony 2) - Long term contract
-        experience_professionel_opensada: Web developer (PrestaShop) - Intership
+        experience_professionel_opensada: Web developer (PrestaShop) - Internship
         project_medical: Health project - EdreamsFactory Symfony2
-        project_project_manager: Clevermanagement - End second year project
-        project_social_club: Social mustach club - End first year project
-        task_manager_project: Task manager training - Personal project - formation NodeJS Angular2 MongoDb (NoSQL)
+        project_project_manager: Clevermanagement - End of second year project
+        project_social_club: Social mustach club - End of first year project
+        task_manager_project: Task manager - Personal project - Self-training in NodeJS Angular2 MongoDb (NoSQL)
     text:
-        about_me: These lasts years allowed me to have strongs capacities and knowledges in web development, I also improved my skills in leader at EdreamsFactory. After two very good years in my first start-up EdreamsFactory and 3 years in my school (Sup'Internet), I whant know to go to Toronto in Canada to bring my knowledge an to learn new technologies and methodologies to work.
-        oui_eat_french_description: OuiEatFrench is a market place who directly link consumers to farmers. The farmers have their owed administration space on the market place to select all of the product and enter their description. Their is also an tracability concept (when the product are harvest, which treatement do they undergo...).<br> And for consumers, they can select a farmer close to their location and chose their fresh product. The consumers also can directly go to the farmer to take their order.
-        oui_eat_french_specificity: A team build by 9 people, 3 developers, 3 designers and 3 commercials. I'am in charge of the development team, this project is completely operational, start with administration part and end with payment part.
-        skills: That are the different skills that I have learn in my Sup'Internet formation and in my intership experience and of course in my work experience.
+        about_me: These lasts years allowed me to achieve strong capacities and knowledge in web development. I also improved my skills in leadership at EdreamsFactory. After two very good years in my first start-up experience at EdreamsFactory and 3 years in Sup'Internet, I'm now in Toronto, Canada to bring my knowledge and to learn new technologies and work methodologies.
+        oui_eat_french_description: OuiEatFrench is a marketplace that directly links consumers to farmers. Farmers have their own administration space on the website to select all their products and provide their specific informations. There is also a traceability concept (when the products are harvest, what treatment do they undergo...).<br> And for consumers, they can select a farmer close to their location and choose their fresh products. Consumers can also directly go to the farmer to pick up their order.
+        oui_eat_french_specificity: A team of 9 people: 3 developers, 3 designers and 3 commercials. I was in charge of the development team. This project is completely operational, from the administration part to the payment part.
+        skills: These are the different skills that I have learned at Sup'Internet and through my internship experiences and of course through my professional experience.
         french: First language
         english: Professional
         copyright: Portfolio of Guillaume Flambard
@@ -42,21 +42,21 @@ portfolio:
         message: Message
         close: Close
         send_mail: Send email
-        experience_professionel_edreams_1: I chose EdreamsFactory for my intership at Sup'Internet second year because their looking for a developer in synfony2, I was interested by this technology. My first mission was to continue the edreaùsFactory CRM and I have work for several project especially for a privet driver project.
-        experience_professionel_edreams_2: For my last internship, EdreamsFactor offer me to come back, with an additional little mission in Android development (mobile development). I really like learn and discover new technologies. I learned a lot in this intership especially in the symfony2 freamework.
-        experience_professionel_edreams_3: EdreamsFacory was the logic choices with my school interships; As a lead developper my team and I was the perfect combo to process all our EdreamsFactory projects and software of compagny management. I have event develope in totality the Health project mentionned above, it was my favorite project.
-        experience_professionel_opensada: I perform my intership for my first year at Sup'Internet in the OpenSada company. I developed many modules in prestashop in PHP5 like a size guide, an product suggestion, buy packing of products, a card reminder, an automatic emailing etc. This intership was be interested, it consolidate my base in OOP (object-oriented programming).
-        project_medical: The Health project is for an Osteopathy school. C'est one of many project that I realised at EdreamsFactory. I liked particuliarly this project because it's my first project where I was lead developer and I have had very good reviews on it. This project is used everyday by more of 500 students, 30 teatchers and 2 secretaries. We had to develop a student management, teachers management and promotion management. The part I liked most on this project was the implementation of the schedual generation algorithm to the secretaria for manage her appointement with the available student. I was in charge to of the data base migration from the older software to the new one.
-        project_medical_more: This project is actualy on line, their is mor of 100 consultation per day. I am in charge of the maintenance of this project and I developed all update.
-        project_project_manager: CleverManagement is my project of the second year of Sup'Internet. The team included 3 developers. We develope a project manager (like Jira) with an home made framework. This software have a user managmenet and they can manage tasks. Their is also an time estimation an a notionof bilan to know if this project was profitable to the company.
-        project_social_club: The Social mustach club is just my favorite project. This is my end first year project, with a  developers team. We has to develop a social network (a facebook like) with a personal wall and a public wall we also have a instant message system. We create our own ORM for this project. I am prod of the Social mustache club because I took pleasure to work day and night one the it development. The result was really worth it.
-        task_manager_description: This project is a basic task manager. You can authencificate tour self, you can create an remove your own tasks. You have also a filter system. I made this little project to learn new technologies.
+        experience_professionel_edreams_1: I chose EdreamsFactory for my internship at Sup'Internet in second year because they were looking for a developer in symfony2 and I was interested by this technology. My first mission was to continue the EdreamsFactory CRM and I also worked on several projects, especially on a private drivers project.
+        experience_professionel_edreams_2: For my last internship, EdreamsFactory offered me to come back with an additional little mission in Android development (mobile development). I really liked to learn and discover new technologies. I learned a lot in this internship especially in the symfony2 framework.
+        experience_professionel_edreams_3: EdreamsFacory was the logical choice for my school internships; As a lead developer my team had a good configuration to process all EdreamsFactory's company management projects and softwares efficiently. I even developed the Health project mentionned above in totality, it was my favorite project.
+        experience_professionel_opensada: I perform my internship for my first year at Sup'Internet in the OpenSada company. I developed many modules in prestashop in PHP5 like a size guide, an product suggestion, buy packing of products, a card reminder, an automatic emailing etc. This internship was be interested, it consolidate my base in OOP (object-oriented programming).
+        project_medical: The Health project is for an Osteopathy school. It is one of many project that I realised at EdreamsFactory. I liked particuliarly this project because it's my first project where I was lead developer and I had very good reviews on it. This project is used everyday by more than 500 students, 30 teatchers and 2 secretaries. We had to develop a student management, teachers management and promotion management. The part I liked most on this project was the implementation of the schedual generation algorithm to the secretaria for manage her appointement with the available student. I was in charge to of the data base migration from the old software to the new one.
+        project_medical_more: This project is actualy on line, their is mor than 100 consultations per day. I am in charge of the maintenance of this project and I developed all updates.
+        project_project_manager: CleverManagement is my project of the second year of Sup'Internet. The team included 3 developers. We develope a project manager (like Jira) with an home made framework. This software have a user managmenet and they can manage tasks. Their is also an time estimation an a notion of bilan to know if this project was profitable to the company.
+        project_social_club: The Social mustach club is just my favorite project. This is my end first school year project, with a developers team. We had to develop a social network (a facebook like) with a personal wall and a public wall, we also had an instant message system. We create our own ORM for this project. I am prod of the Social mustache club because I took pleasure to work on it day and night. The result was really worth it.
+        task_manager_description: This project is a basic task manager. You can authencificate your self, create and remove your own tasks. You have also a filter system. I made this little project to learn new technologies.
         recommandation:
             gael:
                 status: Php teatcher - Sup'Internet
             pa:
                 status: Lead Developer - Edreamsfactory - First year of internship
             alexandre:
-                status: Commercial director - Edreamsfactory - Second year of intership
+                status: Commercial director - Edreamsfactory - Second year of internship
             rubens:
                 status: CEO & founder - Edreamsfactory - Long term contract
