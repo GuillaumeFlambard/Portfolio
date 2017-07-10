@@ -2,125 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc1d3b8e-cc4c-4d3e-9c06-d07297f6f9e7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/views/Portfolio/favicon.ico" afterPath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/views/Portfolio/favicon.ico" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/demo/1_b.jpg" afterPath="$PROJECT_DIR$/web/fancybox/demo/1_b.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/demo/1_s.jpg" afterPath="$PROJECT_DIR$/web/fancybox/demo/1_s.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/demo/2_b.jpg" afterPath="$PROJECT_DIR$/web/fancybox/demo/2_b.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/demo/2_s.jpg" afterPath="$PROJECT_DIR$/web/fancybox/demo/2_s.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/demo/3_b.jpg" afterPath="$PROJECT_DIR$/web/fancybox/demo/3_b.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/demo/3_s.jpg" afterPath="$PROJECT_DIR$/web/fancybox/demo/3_s.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/demo/4_b.jpg" afterPath="$PROJECT_DIR$/web/fancybox/demo/4_b.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/demo/4_s.jpg" afterPath="$PROJECT_DIR$/web/fancybox/demo/4_s.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/demo/5_b.jpg" afterPath="$PROJECT_DIR$/web/fancybox/demo/5_b.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/demo/5_s.jpg" afterPath="$PROJECT_DIR$/web/fancybox/demo/5_s.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/source/blank.gif" afterPath="$PROJECT_DIR$/web/fancybox/source/blank.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/source/fancybox_loading.gif" afterPath="$PROJECT_DIR$/web/fancybox/source/fancybox_loading.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/source/fancybox_loading@2x.gif" afterPath="$PROJECT_DIR$/web/fancybox/source/fancybox_loading@2x.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/source/fancybox_overlay.png" afterPath="$PROJECT_DIR$/web/fancybox/source/fancybox_overlay.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/source/fancybox_sprite.png" afterPath="$PROJECT_DIR$/web/fancybox/source/fancybox_sprite.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/source/fancybox_sprite@2x.png" afterPath="$PROJECT_DIR$/web/fancybox/source/fancybox_sprite@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/source/helpers/fancybox_buttons.png" afterPath="$PROJECT_DIR$/web/fancybox/source/helpers/fancybox_buttons.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/sprite.psd" afterPath="$PROJECT_DIR$/web/fancybox/sprite.psd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/images/cv_guillaume.jpg" afterPath="$PROJECT_DIR$/web/portfolio/assets/images/cv_guillaume.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/images/github-chart.png" afterPath="$PROJECT_DIR$/web/portfolio/assets/images/github-chart.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/images/guillaume.jpg" afterPath="$PROJECT_DIR$/web/portfolio/assets/images/guillaume.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/images/guillaume_flambard_cv.jpg" afterPath="$PROJECT_DIR$/web/portfolio/assets/images/guillaume_flambard_cv.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/images/profile.png" afterPath="$PROJECT_DIR$/web/portfolio/assets/images/profile.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/images/projects/landing_format.jpg" afterPath="$PROJECT_DIR$/web/portfolio/assets/images/projects/landing_format.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/images/projects/maquette_clever_managment.jpg" afterPath="$PROJECT_DIR$/web/portfolio/assets/images/projects/maquette_clever_managment.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/images/projects/maquette_social_club.jpg" afterPath="$PROJECT_DIR$/web/portfolio/assets/images/projects/maquette_social_club.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/images/projects/medical_format.jpg" afterPath="$PROJECT_DIR$/web/portfolio/assets/images/projects/medical_format.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/images/projects/project-1.png" afterPath="$PROJECT_DIR$/web/portfolio/assets/images/projects/project-1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/images/projects/project-2.jpg" afterPath="$PROJECT_DIR$/web/portfolio/assets/images/projects/project-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/images/projects/project-2.png" afterPath="$PROJECT_DIR$/web/portfolio/assets/images/projects/project-2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/images/projects/project-3.png" afterPath="$PROJECT_DIR$/web/portfolio/assets/images/projects/project-3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/images/projects/project-4.png" afterPath="$PROJECT_DIR$/web/portfolio/assets/images/projects/project-4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/images/projects/project-5.png" afterPath="$PROJECT_DIR$/web/portfolio/assets/images/projects/project-5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/images/projects/project-featured.png" afterPath="$PROJECT_DIR$/web/portfolio/assets/images/projects/project-featured.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/images/test.png" afterPath="$PROJECT_DIR$/web/portfolio/assets/images/test.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/fonts/FontAwesome.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Portfolio.iml" afterPath="$PROJECT_DIR$/.idea/Portfolio.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Controller/PortfolioController.php" afterPath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Controller/PortfolioController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/DependencyInjection/Configuration.php" afterPath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/DependencyInjection/Configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/DependencyInjection/PortfolioExtension.php" afterPath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/DependencyInjection/PortfolioExtension.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Entity/Message.php" afterPath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Entity/Message.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/PortfolioPortfolioBundle.php" afterPath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/PortfolioPortfolioBundle.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/config/routing.yml" afterPath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/config/routing.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/config/routing/portfolio.yml" afterPath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/config/routing/portfolio.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/config/services.yml" afterPath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/config/services.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/translations/messages.en.yml" afterPath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/translations/messages.en.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/translations/messages.fr.yml" afterPath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/translations/messages.fr.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/views/Portfolio/portfolio.html.twig" afterPath="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/views/Portfolio/portfolio.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/.gitattributes" afterPath="$PROJECT_DIR$/web/fancybox/.gitattributes" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/CHANGELOG.md" afterPath="$PROJECT_DIR$/web/fancybox/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/README.md" afterPath="$PROJECT_DIR$/web/fancybox/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/demo/ajax.txt" afterPath="$PROJECT_DIR$/web/fancybox/demo/ajax.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/demo/iframe.html" afterPath="$PROJECT_DIR$/web/fancybox/demo/iframe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/demo/index.html" afterPath="$PROJECT_DIR$/web/fancybox/demo/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/lib/jquery-1.10.1.min.js" afterPath="$PROJECT_DIR$/web/fancybox/lib/jquery-1.10.1.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/lib/jquery-1.9.0.min.js" afterPath="$PROJECT_DIR$/web/fancybox/lib/jquery-1.9.0.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/lib/jquery.mousewheel-3.0.6.pack.js" afterPath="$PROJECT_DIR$/web/fancybox/lib/jquery.mousewheel-3.0.6.pack.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/source/helpers/jquery.fancybox-buttons.css" afterPath="$PROJECT_DIR$/web/fancybox/source/helpers/jquery.fancybox-buttons.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/source/helpers/jquery.fancybox-buttons.js" afterPath="$PROJECT_DIR$/web/fancybox/source/helpers/jquery.fancybox-buttons.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/source/helpers/jquery.fancybox-media.js" afterPath="$PROJECT_DIR$/web/fancybox/source/helpers/jquery.fancybox-media.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/source/helpers/jquery.fancybox-thumbs.css" afterPath="$PROJECT_DIR$/web/fancybox/source/helpers/jquery.fancybox-thumbs.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/source/helpers/jquery.fancybox-thumbs.js" afterPath="$PROJECT_DIR$/web/fancybox/source/helpers/jquery.fancybox-thumbs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/fancybox/source/jquery.fancybox.css" afterPath="$PROJECT_DIR$/web/fancybox/source/jquery.fancybox.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/css/styles.css" afterPath="$PROJECT_DIR$/web/portfolio/assets/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/images/favicon.ico.desktop" afterPath="$PROJECT_DIR$/web/portfolio/assets/images/favicon.ico.desktop" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/js/main.js" afterPath="$PROJECT_DIR$/web/portfolio/assets/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/less/base.less" afterPath="$PROJECT_DIR$/web/portfolio/assets/less/base.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/less/mixins.less" afterPath="$PROJECT_DIR$/web/portfolio/assets/less/mixins.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/less/responsive.less" afterPath="$PROJECT_DIR$/web/portfolio/assets/less/responsive.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/less/styles.less" afterPath="$PROJECT_DIR$/web/portfolio/assets/less/styles.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/less/theme-default.less" afterPath="$PROJECT_DIR$/web/portfolio/assets/less/theme-default.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/css/font-awesome.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/css/font-awesome.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/less/animated.less" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/less/animated.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/less/bordered-pulled.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/less/core.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/less/fixed-width.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/less/font-awesome.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/less/icons.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/less/larger.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/less/list.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/less/mixins.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/less/path.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/less/rotated-flipped.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/less/stacked.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/less/variables.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/scss/_animated.scss" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/scss/_animated.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/scss/_core.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/scss/_fixed-width.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/scss/_icons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/scss/_larger.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/scss/_list.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/scss/_mixins.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/scss/_path.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/scss/_stacked.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/scss/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/font-awesome/scss/font-awesome.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/jquery-1.11.2.min.js" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/jquery-1.11.2.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/portfolio/assets/plugins/jquery-migrate-1.2.1.min.js" afterPath="$PROJECT_DIR$/web/portfolio/assets/plugins/jquery-migrate-1.2.1.min.js" />
     </list>
     <ignored path="Portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -143,8 +28,8 @@
       <file leaf-file-name="messages.en.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/translations/messages.en.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="564">
-              <caret line="47" column="8" lean-forward="false" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+            <state relative-caret-position="785">
+              <caret line="61" column="29" lean-forward="false" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -154,10 +39,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Voici</find>
-      <find>PHP</find>
-      <find>Recommandations</find>
-      <find>m'a</find>
       <find>experi</find>
       <find>profess</find>
       <find>reco</find>
@@ -184,6 +65,10 @@
       <find>recomman</find>
       <find>toronto</find>
       <find>Intership</find>
+      <find>traning</find>
+      <find>cv</find>
+      <find>moreRubensRecommandationText</find>
+      <find>moreGaelRecommandationButton</find>
     </findStrings>
     <replaceStrings>
       <replace>Internship</replace>
@@ -204,6 +89,8 @@
         <option value="&lt;bf7ea432-0e34-43f5-ba8d-021c0262fd5d&gt;/src/Portfolio/PortfolioBundle/Resources/views/Portfolio/portfolio.html.twig" />
         <option value="$PROJECT_DIR$/web/portfolio/assets/css/styles.css" />
         <option value="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/translations/messages.fr.yml" />
+        <option value="$PROJECT_DIR$/app/config/parameters.yml" />
+        <option value="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Controller/PortfolioController.php" />
         <option value="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/views/Portfolio/portfolio.html.twig" />
         <option value="$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/translations/messages.en.yml" />
       </list>
@@ -240,6 +127,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -426,41 +314,8 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Portfolio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="portfolio" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Portfolio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="portfolio" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -567,22 +422,24 @@
       <workItem from="1497539877912" duration="15666000" />
       <workItem from="1498333785961" duration="864000" />
       <workItem from="1498935915923" duration="1849000" />
-      <workItem from="1499530353073" duration="3395000" />
+      <workItem from="1499530353073" duration="6284000" />
+      <workItem from="1499607956834" duration="4912000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37811000" />
+    <option name="totallyTimeSpent" value="45612000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1969" y="18" width="1871" height="1062" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20873787" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16219178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18082191" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26246575" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960325" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32776618" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2498618" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -592,7 +449,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843652" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -641,7 +497,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="56" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#p#1;n#blockquote#0;n#div#0;n#div#0;n#div#0;n#aside#3;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#blockquote#0;n#div#2;n#div#0;n#div#0;n#aside#3;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -663,7 +522,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="163" column="47" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#p#1;n#blockquote#0;n#div#0;n#div#0;n#div#0;n#aside#3;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#blockquote#0;n#div#2;n#div#0;n#div#0;n#aside#3;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -685,7 +547,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="13" column="58" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#p#1;n#blockquote#0;n#div#0;n#div#0;n#div#0;n#aside#3;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#blockquote#0;n#div#2;n#div#0;n#div#0;n#aside#3;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -848,13 +713,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Controller/PortfolioController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="27" column="47" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/config/routing/portfolio.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -890,7 +748,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -898,7 +755,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="17" column="52" lean-forward="false" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -933,24 +789,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/app_dev.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
           <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/views/Portfolio/portfolio.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="190" column="136" lean-forward="false" selection-start-line="190" selection-start-column="136" selection-end-line="190" selection-end-column="136" />
           <folding />
         </state>
       </provider>
@@ -959,14 +801,39 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1062">
           <caret line="59" column="87" lean-forward="false" selection-start-line="59" selection-start-column="87" selection-end-line="59" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/views/Portfolio/portfolio.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="452" column="73" lean-forward="true" selection-start-line="452" selection-start-column="73" selection-end-line="452" selection-end-column="73" />
+          <folding>
+            <element signature="n#style#0;n#p#1;n#blockquote#0;n#div#0;n#div#0;n#div#0;n#aside#3;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#blockquote#0;n#div#2;n#div#0;n#div#0;n#aside#3;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Controller/PortfolioController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="27" column="64" lean-forward="false" selection-start-line="27" selection-start-column="64" selection-end-line="27" selection-end-column="64" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Portfolio/PortfolioBundle/Resources/translations/messages.en.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
-          <caret line="47" column="8" lean-forward="false" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+        <state relative-caret-position="785">
+          <caret line="61" column="29" lean-forward="false" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
           <folding />
         </state>
       </provider>
